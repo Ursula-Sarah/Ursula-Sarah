@@ -1,4 +1,9 @@
-### Hi there 👋
+# Apprenti BI 👋
+## Data visualisation
+### Data extracting and Descriptive Statistics
+Je suis actuellement une apprenti en Business Intelligence. J'elabore des projets d'analyse et de visualisation de données.
+👯Je viens d'obtenir mon certificat de fin formation en langage R pour la data science ce mois d'Avril.
+🌱Je suis entrain de suivre une nouvelle formation en Power BI sur Udemy.
 
 <!--
 **Ursula-Sarah/Ursula-Sarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
