@@ -7,6 +7,8 @@ Je suis actuellement une apprenti en Business Intelligence. J'elabore des projet
 
 ![girl4](https://github.com/Ursula-Sarah/Ursula-Sarah/assets/103580286/ef668b44-cc99-44fb-aeab-1b072a34da1a)
 ![Smiling Face](https://github.com/Ursula-Sarah/Ursula-Sarah/assets/103580286/f16b92ca-4c76-4a04-8918-783aa705703d)
+![bonjour](https://github.com/Ursula-Sarah/Ursula-Sarah/assets/103580286/13030fe9-0550-4190-9efe-be3b20987927)
+
 
 
 
