@@ -6,3 +6,4 @@ Je suis actuellement une apprenti en Business Intelligence. J'elabore des projet
 <br>🌱Je suis entrain de suivre une nouvelle formation en Power BI sur Udemy.
 
 ![girl4](https://github.com/Ursula-Sarah/Ursula-Sarah/assets/103580286/ef668b44-cc99-44fb-aeab-1b072a34da1a)
+![Uploading 1959.jpg…]()
