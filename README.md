@@ -1,4 +1,5 @@
-# Apprenti BI 👋
+![bonjour](https://github.com/Ursula-Sarah/Ursula-Sarah/assets/103580286/13030fe9-0550-4190-9efe-be3b20987927)
+# Apprenti BI 
 ## Data visualisation
 ### Data extracting and Descriptive Statistics
 Je suis actuellement une apprenti en Business Intelligence. J'elabore des projets d'analyse et de visualisation de données.
