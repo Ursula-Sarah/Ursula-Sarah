@@ -3,9 +3,7 @@
 
  ## Une apprentie BI provenant d'Antananarivo   
  <div align="center">
-    💼Je suis actuellement une formation en Pandas sur Python  
-
-    
-    🎯Je travaille sur un nouveau projet de visualisation sur  <b>Power Bi</b>
+    💼Je suis actuellement une formation en Pandas sur Python    
+    🎯Je travaille sur un nouveau projet de visualisation sur  **Power Bi**
  </div>
    
