@@ -1,4 +1,1 @@
-<h1 align="center">
-<img src="https://readme-typing-svg-herckuapp.com/?
-  font-Righteous&size=365&center=true&vCenter=true%width=500&height=70&duration=4000&lines=Bonjour!!;+JeSuiSarah!"/>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
