@@ -1,10 +1,10 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5&color=502083&random=false&width=435&lines=Bonjour!Je+suis+Sarah;Une+apprentie+Business+Intelligence;POWER+BI;SQL;LANGAGE+R)"/>
+<img src="https://readme-typing-svg.demolab.com?font=Lumanosino&weight=100000&size=40&pause=1000&color=3024F7&center=true&vCenter=true&random=false&width=435&lines=Bonjour!%F0%9F%91%8B;Je+suis+Sarah%F0%9F%98%8A;Une+apprentie+Business+intelligence;POWER+BI;Langage+R;SQL"/>
   </a>
 </h1>
 
-  <h3 align="center">Une apprentie BI provenant d'Antananarivo </h3>
+  <h4 align="center">Une apprentie BI provenant d'Antananarivo </h4>
   </br>
  
     💼Je suis actuellement une formation en Pandas sur Python    
