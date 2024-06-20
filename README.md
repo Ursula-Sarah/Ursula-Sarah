@@ -20,10 +20,13 @@
    ![image]https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
    ![image]https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
    ![image]https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white
+   <a href="">
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white" />
+   </a>
+   
    <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
-     <img src="{https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white}"/>
 </p>
    
