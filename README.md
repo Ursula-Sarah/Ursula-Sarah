@@ -6,7 +6,7 @@
     💼Je suis actuellement une formation en Pandas sur Python    
     
     🎯Je travaille sur un nouveau projet de visualisation sur Power BI
-<img src="{https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white}" />
+
 
   ![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
    ![image]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white})
@@ -24,5 +24,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
+     <img src="{https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white}"/>
 </p>
    
