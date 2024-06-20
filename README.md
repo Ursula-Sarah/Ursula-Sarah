@@ -6,7 +6,7 @@
     💼Je suis actuellement une formation en Pandas sur Python    
     
     🎯Je travaille sur un nouveau projet de visualisation sur Power BI
-   ![image]({https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white})   
+    ![image] ({https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white})   
   ![image]({https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white})
    ![image]({https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white})
    ![image]({https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white})
