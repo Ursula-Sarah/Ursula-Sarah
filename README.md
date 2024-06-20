@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Lumanosino&weight=1000&size=30&pause=1000&color=3024F7&center=true&vCenter=true&random=false&width=435&lines=Bonjour!%F0%9F%91%8B;Je+suis+Sarah%F0%9F%98%8A;Une+apprentie+Business+intelligence;POWER+BI;Langage+R;SQL"/>
+<img src="https://readme-typing-svg.demolab.com?font=Lumanosino&pause=1000&color=3024F7&center=true&vCenter=true&random=false&width=435&lines=Bonjour!%F0%9F%91%8B;Je+suis+Sarah%F0%9F%98%8A;Une+apprentie+Business+intelligence;POWER+BI;Langage+R;SQL"/>
   </a>
 </h1>
 
